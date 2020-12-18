@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SocketClient", "SocketClient\SocketClient.vcxproj", "{ECEDA9F1-E61C-4787-9EAB-9C1323865527}"
+	ProjectSection(ProjectDependencies) = postProject
+		{042B4DE9-D9F3-4BC9-8309-2860A1344572} = {042B4DE9-D9F3-4BC9-8309-2860A1344572}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SocketServer", "SocketServer\SocketServer.vcxproj", "{042B4DE9-D9F3-4BC9-8309-2860A1344572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECEDA9F1-E61C-4787-9EAB-9C1323865527}.Debug|x64.ActiveCfg = Debug|x64
+		{ECEDA9F1-E61C-4787-9EAB-9C1323865527}.Debug|x64.Build.0 = Debug|x64
+		{ECEDA9F1-E61C-4787-9EAB-9C1323865527}.Debug|x86.ActiveCfg = Debug|Win32
+		{ECEDA9F1-E61C-4787-9EAB-9C1323865527}.Debug|x86.Build.0 = Debug|Win32
+		{ECEDA9F1-E61C-4787-9EAB-9C1323865527}.Release|x64.ActiveCfg = Release|x64
+		{ECEDA9F1-E61C-4787-9EAB-9C1323865527}.Release|x64.Build.0 = Release|x64
+		{ECEDA9F1-E61C-4787-9EAB-9C1323865527}.Release|x86.ActiveCfg = Release|Win32
+		{ECEDA9F1-E61C-4787-9EAB-9C1323865527}.Release|x86.Build.0 = Release|Win32
+		{042B4DE9-D9F3-4BC9-8309-2860A1344572}.Debug|x64.ActiveCfg = Debug|x64
+		{042B4DE9-D9F3-4BC9-8309-2860A1344572}.Debug|x64.Build.0 = Debug|x64
+		{042B4DE9-D9F3-4BC9-8309-2860A1344572}.Debug|x86.ActiveCfg = Debug|Win32
+		{042B4DE9-D9F3-4BC9-8309-2860A1344572}.Debug|x86.Build.0 = Debug|Win32
+		{042B4DE9-D9F3-4BC9-8309-2860A1344572}.Release|x64.ActiveCfg = Release|x64
+		{042B4DE9-D9F3-4BC9-8309-2860A1344572}.Release|x64.Build.0 = Release|x64
+		{042B4DE9-D9F3-4BC9-8309-2860A1344572}.Release|x86.ActiveCfg = Release|Win32
+		{042B4DE9-D9F3-4BC9-8309-2860A1344572}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7A00AA7-C2B0-4B31-9640-A20BFB81799F}
+	EndGlobalSection
+EndGlobal
