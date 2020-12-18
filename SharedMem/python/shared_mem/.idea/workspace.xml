@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="118c8a7b-b0e1-4b3c-ae5e-918af383464a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kp1bdkwCA8Pi10AaaiHVBZLlCQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.read_mem">
+    <configuration name="jsonmmap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="shared_mem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jsonmmap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_mem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="shared_mem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read_mem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="shared_mem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="write_mem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="shared_mem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/write_mem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.read_mem" />
+        <item itemvalue="Python.write_mem" />
+        <item itemvalue="Python.jsonmmap" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="118c8a7b-b0e1-4b3c-ae5e-918af383464a" name="Default Changelist" comment="" />
+      <created>1606382791347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606382791347</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="460" height="466" key="DebuggerActiveHint" timestamp="1606893869802">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="460" height="466" key="DebuggerActiveHint/0.0.2048.1112@0.0.2048.1112" timestamp="1606893869802" />
+    <state x="707" y="464" key="FileChooserDialogImpl" timestamp="1607395484534">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="707" y="464" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1607395484534" />
+    <state x="884" y="584" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1606382894906" />
+    <state width="1092" height="265" key="GridCell.Tab.0.bottom" timestamp="1608129270058">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1092" height="265" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1280.680@0.0.2048.1112" timestamp="1608129270058" />
+    <state width="1092" height="265" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1607395485819" />
+    <state width="1190" height="265" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606384655448" />
+    <state width="1092" height="265" key="GridCell.Tab.0.center" timestamp="1608129270058">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1092" height="265" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1280.680@0.0.2048.1112" timestamp="1608129270058" />
+    <state width="1092" height="265" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1607395485819" />
+    <state width="1190" height="265" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606384655448" />
+    <state width="1092" height="265" key="GridCell.Tab.0.left" timestamp="1608129270057">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1092" height="265" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1280.680@0.0.2048.1112" timestamp="1608129270057" />
+    <state width="1092" height="265" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1607395485819" />
+    <state width="1190" height="265" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606384655448" />
+    <state width="1092" height="265" key="GridCell.Tab.0.right" timestamp="1608129270058">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1092" height="265" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1280.680@0.0.2048.1112" timestamp="1608129270058" />
+    <state width="1092" height="265" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1607395485819" />
+    <state width="1190" height="265" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606384655448" />
+    <state width="1092" height="321" key="GridCell.Tab.1.bottom" timestamp="1606916583942">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1092" height="321" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1606916583942" />
+    <state width="1092" height="321" key="GridCell.Tab.1.center" timestamp="1606916583942">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1092" height="321" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1606916583942" />
+    <state width="1092" height="321" key="GridCell.Tab.1.left" timestamp="1606916583942">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1092" height="321" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1606916583942" />
+    <state width="1092" height="321" key="GridCell.Tab.1.right" timestamp="1606916583942">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1092" height="321" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1606916583942" />
+    <state x="903" y="229" key="SettingsEditor" timestamp="1606464426482">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="903" y="229" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1606464426482" />
+    <state x="768" y="416" key="com.intellij.ide.util.TipDialog" timestamp="1607394917953">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="768" y="416" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1607394917953" />
+    <state x="960" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1606384599515" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jsonmmap.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jsonmmap.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
